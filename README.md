@@ -1,4 +1,16 @@
 ## Hi, everyone! 
+Hi there 👋  
+I'm Kareena — a passionate Web Developer and BCA student at NavGurukul.  
+
+🔸 I specialize in building dynamic frontend apps using **HTML, CSS, JavaScript**, and **Bootstrap**.  
+🔸 Currently exploring **Data Structures & Algorithms (DSA)** with Python.  
+🔸 I’m on a focused journey to land a **10+ LPA job in 2026**, while also preparing for **competitive tech exams** like IBPS SO, NIC Scientist, and more.  
+🔸 Actively working on real-world projects, participating in **hackathons**, and building a strong portfolio.  
+🔸 I also enjoy learning through open-source and sharing knowledge.
+
+📌 My values: **Consistency, Curiosity, Growth**
+
+Let’s connect, collaborate, and build something amazing together 🚀
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kareena-yadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kareenayadav1088@gmail.com) 
 
