@@ -1,6 +1,6 @@
 ## Hi, everyone! 
 Hi there 👋  
-I'm Kareena — a passionate Web Developer and BCA student at NavGurukul.  
+I'm Kareena — a passionate Web Developer and BCA student at Eternal University.  
 
 🔸 I specialize in building dynamic frontend apps using **HTML, CSS, JavaScript**, and **Bootstrap**.  
 🔸 Currently exploring **Data Structures & Algorithms (DSA)** with Python.  
