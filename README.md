@@ -7,14 +7,14 @@ I love turning ideas into reality with clean, efficient code. 🚀
 
 - 🔹 **Specialization**: Building dynamic frontend apps using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.  
 - 🔹 **Learning**: Mastering **DSA** with **Python**.  
-- 🔹 **Projects**: Real-world apps, hackathons, and open-source contributions.  
+- 🔹 **Projects**: Real-world apps and hackathons  
 - 🔹 **Values**: Consistency 💪 | Curiosity 🤔 | Growth 📈  
 
 ---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
-📧 Email: **your_email@example.com**
+📧 Email: **kareenayadav1088@gmail.com**
 
 ---
 
@@ -41,12 +41,3 @@ I love turning ideas into reality with clean, efficient code. 🚀
 
 <!-- Footer Wave -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:ff758c&height=100&section=footer)
-b-readme-stats.vercel.app/api/top-langs/?username=Kareena2070&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Kareena2070&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
