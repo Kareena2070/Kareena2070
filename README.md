@@ -6,6 +6,13 @@ I have been actively learning and practicing Web Development for the last **1 ye
 
 ---
 
+### 🚀 My Stats & Status
+![Experience](https://img.shields.io/badge/Experience-1_Year-blue?style=for-the-badge&logo=force)
+![Commits](https://img.shields.io/badge/Commits-Daily_Active-success?style=for-the-badge&logo=github)
+![Focus](https://img.shields.io/badge/Focus-MERN_Stack-orange?style=for-the-badge&logo=react)
+
+---
+
 ### 🛠️ Languages and Tools
 Here are the technologies I use to build my projects:
 
@@ -19,20 +26,13 @@ Here are the technologies I use to build my projects:
 
 ---
 
-### 🔥 My Coding Streak
-This shows how many days in a row I have been coding:
-
-![Kareena's Streak](https://streak-stats.demolab.com?user=Kareena2070&theme=radical)
-
-### 📉 My Contribution Graph
-This shows my commit activity over the last month:
-
-![Kareena's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kareena2070&theme=react-dark)
-
----
+### 📉 My Contribution Graph This shows my commit activity over the last month: 
+![Kareena's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kareena2070&theme=react-dark)  ---
 
 ### 🤝 Connect with me
 
-* 📧 **Email:** [EMAIL](mailto:kareenayadav1088@gmail.com)
-* 🔗 **LinkedIn:** [My Profile](www.linkedin.com/in/kareena-yadav)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareenayadav1088@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareena-yadav)
+
 * 🔭 I’m currently working on: **Improving my React Skills**
