@@ -32,5 +32,7 @@ This shows my commit activity over the last month:
 ---
 
 ### 🤝 Connect with me
-* 📫 How to reach me: **[Insert your Email or LinkedIn URL here]**
+
+* 📧 **Email:** [EMAIL](mailto:kareenayadav1088@gmail.com)
+* 🔗 **LinkedIn:** [My Profile](www.linkedin.com/in/kareena-yadav)
 * 🔭 I’m currently working on: **Improving my React Skills**
